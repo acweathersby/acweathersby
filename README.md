@@ -2,7 +2,8 @@
 
 
 #### I’m currently working on 🔭
-[CandleFW](https://www.github.com/candlefw/) - A loose alliance of web development tools in glorious TypeScript
+[CandleFW](https://www.github.com/candlefw/) - A loose alliance of web development tools in glorious TypeScript.
+[Candlelight Color](https://www.github.com/acweathersby/candlelight) - A color picker and pallette extension.
 
 <!--
 **acweathersby/acweathersby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
