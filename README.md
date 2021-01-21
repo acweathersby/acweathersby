@@ -24,8 +24,8 @@ I use!
     - *Eventualy:* [cfw.Flame](https://github.com/candlefw/flame)
     
 - Code Editors:
-    - *My work :horse::* VScode
-    - *Has a special place in my :heart::* Sublime Text
+    - *My workhorse * VScode
+    - *Has a special place in my * Sublime Text
     
 - Code Languages:
     - *Preferred Language:* TypeScript
