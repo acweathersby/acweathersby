@@ -3,20 +3,17 @@
 
 ### I’m currently working on 🔭
 #### Active Repos
-- [CandleFW](https://www.github.com/candlefw/) - A loose alliance of web development tools in glorious TypeScript.
+- [CandleFW](https://www.github.com/candlefw/) - A suite of web development tools for the browser and desktop. 
+    - [CandleFW](https://www.github.com/candlefw/hydrocarbon) - A recursive descent parser compiler.
 - [Candlelight Color](https://www.github.com/acweathersby/candlelight) - A color picker and pallette extension.
 
 #### My VSCode extension
 - [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A pastel dark theme that I stare at day and night. 
 
-
-
 ___
 ### My Setup
 Want to know how I get things done? Here's a list of the tools
 I use!
-- Primary OS: Linux Mint 19.3 - Long live :penguin:
-- Fall Back OS: Windows 10
 
 - Design Tools:
     - *Online Editor:* [Figma](https://figma.com)
