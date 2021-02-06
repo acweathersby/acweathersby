@@ -3,8 +3,8 @@
 
 ### I’m currently working on 🔭
 #### Active Repos
-- [CandleFW](https://www.github.com/candlefw/) - A suite of web development tools for the browser and desktop. 
-    - [Hydrocarbon](https://www.github.com/candlefw/hydrocarbon) - A recursive descent parser compiler.
+- [Candle Library](https://www.github.com/candlelibrary/) - A suite of web development tools for the browser and desktop. 
+    - [Hydrocarbon](https://www.github.com/candlelibrary/hydrocarbon) - A recursive descent parser compiler.
 - [Candlelight Color](https://www.github.com/acweathersby/candlelight) - A color picker and pallette extension.
 
 #### My VSCode extension
