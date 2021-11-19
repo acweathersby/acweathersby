@@ -11,4 +11,4 @@ masterpiece.
 - [Hydrocarbon](https://www.github.com/acweathersby/hydrocarbon) - A Programming Language Toolkit
 
 #### My VSCode extension
-- [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme that's ensures my optical perscription remains constant.
+- [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme that ensures my optical perscription remains constant.
