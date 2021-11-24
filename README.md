@@ -9,7 +9,7 @@ masterpiece.
 ## I’m currently working on 🔭
 
 - [Hydrocarbon](https://www.github.com/acweathersby/hydrocarbon) - A Programming Language Toolkit
-- [StyleCrate](https://www.github.com/acwethersby/StyleCrate) - A CSS Editing Toolkit
+- [StyleCrate](https://www.github.com/acweathersby/StyleCrate) - A CSS Editing Toolkit
 
 #### My VSCode extension
 - [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme that ensures my optical perscription remains constant.
