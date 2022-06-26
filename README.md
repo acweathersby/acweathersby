@@ -1,5 +1,5 @@
 # Hello Hello!
-I'm a developer that loves to build simple yet desceptivily powerful tools. I'm currently working on 
+I'm a programmaer that loves to build easy to use yet desceptivily powerful tools. I'm currently working on 
 Hydrocarbon, a programming language toolkit. I'll ocassionally tinker in game and web development, and got some
 repos around here that focuses on those. 
 
