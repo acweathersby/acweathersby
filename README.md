@@ -12,7 +12,8 @@ masterpiece.
 - [StyleCrate](https://github.com/acweathersby/StyleCrate) - A CSS Editing Toolkit
 
 #### My VSCode extension
-- [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme that ensures my optical perscription remains constant.
+- [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme for vscode.
+- [Pencil](https://www.github.com/acweathersby/pencil) - A light, focused, pastel them for vscode.
 
 #### Frontend Mentor
 
