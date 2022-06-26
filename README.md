@@ -11,7 +11,7 @@ masterpiece.
 - [Hydrocarbon](https://github.com/hydrocarbon-tk/hydrocarbon) - A Programming Language Toolkit
 - [StyleCrate](https://github.com/acweathersby/StyleCrate) - A CSS Editing Toolkit
 
-#### My VSCode extension
+#### My VSCode extensions
 - [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme for vscode.
 - [Pencil](https://www.github.com/acweathersby/pencil) - A light, focused, pastel them for vscode.
 
