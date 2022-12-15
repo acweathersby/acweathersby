@@ -1,10 +1,9 @@
 # Hello Hello!
-I'm a programmaer that loves to build easy to use yet desceptivily powerful tools. I'm currently working on 
-Hydrocarbon, a programming language toolkit. I'll ocassionally tinker in game and web development, and got some
+I'm a programmer that loves to build easy to use yet desceptivily powerful tools. I'm currently working on 
+Sherpa, a programming language toolkit. I'll ocassionally tinker in game and web development, and got some
 repos around here that focuses on those. 
 
-When not programming I'm spending time with my two little boys, cooking, pencil sketching, or trying in vain to compose a musical
-masterpiece. 
+When not programming I'm spending time with my kids, cooking, pencil sketching, or trying in vain to master the piano.
 
 ## I’m currently working on 🔭
 
