@@ -8,7 +8,7 @@ masterpiece.
 
 ## I’m currently working on 🔭
 
-- [Hydrocarbon](https://github.com/hydrocarbon-tk/hydrocarbon) - A Programming Language Toolkit
+- [~~Hydrocarbon~~](https://github.com/hydrocarbon-tk/hydrocarbon) Sherpa - A Programming Language Toolkit
 - [StyleCrate](https://github.com/acweathersby/StyleCrate) - A CSS Editing Toolkit
 
 #### My VSCode extensions
