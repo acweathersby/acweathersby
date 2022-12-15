@@ -9,7 +9,6 @@ masterpiece.
 ## I’m currently working on 🔭
 
 - [~~Hydrocarbon~~](https://github.com/hydrocarbon-tk/hydrocarbon) Sherpa - A Programming Language Toolkit
-- [StyleCrate](https://github.com/acweathersby/StyleCrate) - A CSS Editing Toolkit
 
 #### My VSCode extensions
 - [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme for vscode.
