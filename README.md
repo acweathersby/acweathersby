@@ -7,7 +7,7 @@ When not programming I'm spending time with my kids, cooking, pencil sketching, 
 
 ## I’m currently working on 🔭
 
-- [~~Hydrocarbon~~](https://github.com/hydrocarbon-tk/hydrocarbon) [Radlr](https://github.com/acweathersby/radlr) - A Programming Language Toolkit
+- [Radlr](https://github.com/acweathersby/radlr) - A Programming Language Toolkit
 
 #### My VSCode extensions
 - [Indigo Coal](https://www.github.com/acweathersby/indigo-coal) - A beautiful dark pastel theme for vscode.
