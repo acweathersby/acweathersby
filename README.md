@@ -1,9 +1,7 @@
 # Hello Hello!
 I'm a programmer that loves to build easy to use yet desceptivily powerful tools. I'm currently working on 
-Sherpa, a programming language toolkit. I'll ocassionally tinker in game and web development, and got some
+Rradlr, a programming language toolkit, and Rum, a stealth programming language. I'll ocassionally tinker in game and web development, and got some
 repos around here that focuses on those. 
-
-When not programming I'm spending time with my kids, cooking, pencil sketching, or trying in vain to master the piano.
 
 ## I’m currently working on 🔭
 
